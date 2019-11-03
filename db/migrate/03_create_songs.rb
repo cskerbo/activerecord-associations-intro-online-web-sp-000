@@ -7,5 +7,5 @@ class CreateSongs < ActiveRecord::Migration[4.2]
       x.integer :genre_id
     end
   end
-  
+
 end
